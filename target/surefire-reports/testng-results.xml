@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+      <class name="Package2.SetUp">
+        <test-method status="PASS" signature="login()[pri:0, instance:Package2.SetUp@3c756e4d]" name="login" is-config="true" duration-ms="28" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Package2.SetUp@3c756e4d]" name="logout" is-config="true" duration-ms="1" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Package2.SetUp -->
+      <class name="Package1.TestCases">
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:Package1.TestCases@7c0e2abd]" name="TC_01" duration-ms="5" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method status="PASS" signature="TC_02()[pri:0, instance:Package1.TestCases@7c0e2abd]" name="TC_02" duration-ms="0" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:Package1.TestCases@7c0e2abd]" name="TC_03" duration-ms="0" started-at="2019-12-19T03:18:42Z" finished-at="2019-12-19T03:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+      </class> <!-- Package1.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
